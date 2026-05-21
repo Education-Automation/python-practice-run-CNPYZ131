@@ -1,4 +1,4 @@
-from main import *
+from example1 import *
 
 
 class Tests:
